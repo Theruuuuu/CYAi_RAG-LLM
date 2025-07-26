@@ -1,9 +1,6 @@
 # ✍🏻📚🤖CYAi🤖📚✍🏻 (Still On Developments)
 
 
-### Web Application Link: 
-      https://youparthai.streamlit.app/
-
 ### What Is Rag?
 - (TBA)
 ### What Is CYAi Use For? :)
