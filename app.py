@@ -200,14 +200,5 @@ You read uploaded PDF documents and explain them in simple, clear, and helpful F
         if lower_input not in vague_phrases:
             st.session_state.last_user_question = user_input
 
-        if st.checkbox("🔍 Show retrieved context"):
-            try:
-                docs = st.session_state.qa_chain.retriever.get_relevant_documents(user_input)
-                for i, doc in enumerate(docs):
-                    st.markdown(f"**📄 Context Chunk {i+1}:**")
-                    st.code(doc.page_content[:1500])
-            except Exception as e:
-                st.error(f"Couldn't retrieve debug context: {e}")
-
 if __name__ == "__main__":
     main()
