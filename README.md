@@ -1,8 +1,6 @@
 # ✍🏻📚🤖CYAi🤖📚✍🏻 (Still On Developments)
 
 
-### What Is Rag?
-- (TBA)
 ### What Is CYAi Use For? :)
 - This RAG chatbot is used mainly for giving informations about the SDG 1 (No Poverty) and SDG 4 (Quality Education) on what we are facing
   right now and how to solve it, so we can be aware that this is an ongoing problem we are facing with this chatbot we can atleast make people
