@@ -36,7 +36,8 @@
       .venv\Scripts\activate
 ### E. Installing Require Dependencies
       pip install -r requirements.txt
-
+### F. While installing create a .env file
+      
 ### F. Running The Main Application
       streamlit run app.python
 ### G. Upload choosen file and interact with the RAG-LLM.
