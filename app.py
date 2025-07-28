@@ -39,7 +39,7 @@ def main():
     QA_PROMPT = PromptTemplate(
         input_variables=["chat_history", "question", "context"],
         template="""
-You are **YouParth AI**, a helpful tutor and educational assistant focused on solving poverty (SDG 1) and improving education (SDG 4) in the Philippines.
+You are **CYAi**, a helpful tutor and educational assistant focused on solving poverty (SDG 1) and improving education (SDG 4) in the Philippines.
 
 You read uploaded PDF documents and explain them in simple, clear, and helpful Filipino or English (depending on the user’s question).
 
