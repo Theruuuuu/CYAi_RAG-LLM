@@ -52,13 +52,13 @@ _**(Still In Developments)**_
    3. Open Visual Studio Code Terminal, For Shortcut Type "CTRL + J"
    4. To Clone Repo Type:
 
-            git clone https://github.com/carljadepabunan/CYAi_RAG-LLM.git
+            git clone https://github.com/Theruuuuu/CYAi_RAG-LLM
 ### 👉 C. Get The API Key From Huggingchain
    1. Open This Link, Create Account And Create Access Key Or Token: https://huggingface.co
 ### 👉 D. Creating And Activate Virtual Environment
       cd CYAi_RAG-LLM
       python -m venv .venv
-      .\.venv\Scripts\activate
+      .venv\Scripts\activate
 ### 👉 E. Installing Require Dependencies
       pip install -r requirements.txt
 ### 👉 F. Enabling The Costum UI For Streamlit      
