@@ -166,7 +166,7 @@ You read uploaded PDF documents and explain them in simple, clear, and helpful F
             "how are you": "I'm an AI — always ready to help! 💡",
             "thank you": "You're welcome! 👍",
             "thanks": "Glad to help! 🤗",
-            "who are you": "I'm YouParth AI — your smart learning assistant.",
+            "who are you": "I'm CYAi your smart learning assistant.",
             "what can you do": "I can help you understand the contents of your uploaded PDFs and answer questions related to education, poverty, and more!",
             "can you help me": "Of course! 😊 Just upload a PDF and ask me questions about its content.",
             "help me": "Sure! I'm here to assist you. Upload a PDF and ask anything about it.",
